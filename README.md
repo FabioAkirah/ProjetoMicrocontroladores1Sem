@@ -1,12 +1,14 @@
-# ProjetoMicrocontroladores1Sem
+# Projeto de Microcontroladores e Sistemas Embarcados - 1Semestre
 
-Descrição do projeto -
-O projeto consiste em criar um sistema para automatizar a ação de regar uma planta.
-No projeto, acionaremos uma bomba d'água quando a umidade do solo estiver relativamente baixa para a planta além disso, ideia é que o usuário possa também monitorar em tempo real algumas outras coisas como umidade da terra/ar, temperatura, pressão e luminosidade no local. Algumas dessas informações ficariam disponíveis num LCD (acionado através do sensor de presença) ou poderiam ser obtidas no celular via bluetooth. Através do celular, seria possível também, que o usuário pudesse controlar quando acionar a bomba e o LED.
-O usuário seria notificado também, quando o reservatório de água estivesse quase vazio.
+mbed NXP LPC1768
+
+DescriÃ§Ã£o do projeto -
+O projeto consiste em criar um sistema para automatizar a aÃ§Ã£o de regar uma planta.
+No projeto, acionaremos uma bomba d'Ã¡gua quando a umidade do solo estiver relativamente baixa para a planta alÃ©m disso, ideia Ã© que o usuÃ¡rio possa tambÃ©m monitorar em tempo real algumas outras coisas como umidade da terra/ar, temperatura, pressÃ£o e luminosidade no local. Algumas dessas informaÃ§Ãµes ficariam disponÃ­veis num LCD (acionado atravÃ©s do sensor de presenÃ§a) ou poderiam ser obtidas no celular via bluetooth. AtravÃ©s do celular, seria possÃ­vel tambÃ©m, que o usuÃ¡rio pudesse controlar quando acionar a bomba e o LED.
+O usuÃ¡rio seria notificado tambÃ©m, quando o reservatÃ³rio de Ã¡gua estivesse quase vazio.
 
 
-Módulos –
+MÃ³dulos â€“
 Timer
 PIO
 ADC
@@ -15,14 +17,14 @@ Bluetooth
 Componentes -
 Nxp lc1768
 Sensor Umidade do Solo
-Sensor Ultrassônico
-Sensor de presença
-Bomba d'água
-Sensor de Umidade/Temperatura/Pressão
+Sensor UltrassÃ´nico
+Sensor de presenÃ§a
+Bomba d'Ã¡gua
+Sensor de Umidade/Temperatura/PressÃ£o
 Sensor de Luz(LDR)
 LCD
 Ponte H
 
 
-Data de entrega – 18/06
+Data de entrega â€“ 18/06
 
